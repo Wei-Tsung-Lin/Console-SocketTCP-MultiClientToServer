@@ -1,6 +1,6 @@
-# Console Socket TCP Chat System Tutorial
+# Console-SocketTCP-MultiClientToServer
 
-  *  One Server by Many Client  TCP Network transfer string  
+  * Many Client to OneServer TCP Network transfer string  
 
 # OverView
 
